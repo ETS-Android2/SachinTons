@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "154181838343",
+    "firebase_url": "https://sachintons-c3cfd.firebaseio.com",
+    "project_id": "sachintons-c3cfd",
+    "storage_bucket": "sachintons-c3cfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154181838343:android:0f7f6d9657c17b6935eca2",
+        "android_client_info": {
+          "package_name": "com.adityay.sachintons"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154181838343-7oelp8slu8vp3k16sf16k4ovessa81sj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adityay.sachintons",
+            "certificate_hash": "e39b7c6b3af197d6c18ebd0644866aee6ed370b7"
+          }
+        },
+        {
+          "client_id": "154181838343-77hgli18nr4nq2kj15t6e0g5mr4fr01l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDt-A_f-ZHnGDViMQXol5gA7hzEhxqfG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154181838343-77hgli18nr4nq2kj15t6e0g5mr4fr01l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

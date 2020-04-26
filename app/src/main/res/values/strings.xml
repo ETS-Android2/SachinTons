@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SachinTons</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="credits_espncricinfo">Credits : EspnCricInfo</string>
+    <string name="summary">Summary</string>
+    <string name="watch_now">Watch Now</string>
+    <string name="profile_description">Regarded as one of the greatest batsmen ever, Sachin Tendulkar was the mainstay of Indian batting line-up for more than two decades. He is the world\'s leading run-scorer in both Test (15,921) and ODI (18,426) cricket. In 2011, he finally achieved his dream of winning the Cricket World Cup at the Wankhede, Mumbai. It took 6 World Cup appearances for the \'Little Master\' to win the coveted trophy. He is the leading century maker in both Test and ODI and has so far scored 100 (51 Test + 49 ODI) international centuries. Among many laurels he had won - the most prominent ones are: Bharat Ratna, Padma Vibhushan and Rajiv Gandhi Khel Ratna. Surprisingly after playing for more than two decades, he won his first ICC cricketer of the year award in 2010. He described ‘2010’ as among the best ever in his cricketing career. In February 2010, he became the first batsman to break the 200-run barrier in one-day cricket. On May 27, 2017 released the sports docudrama, Sachin: A Billion Dreams, the ‘authorised’ biopic of Sachin Tendulkar which captured his cricket and personal life in detail.</string>
+    <string name="profile_name">Sachin R. Tendulkar</string>
+    <string name="about_me">About Me</string>
+    <string name="shop_merchandise">Merchandise</string>
+    <string name="subscribe_youtube">Subscribe Youtube Channel</string>
+    <string name="text_read_more">… Read More</string>
+    <string name="text_read_less">… Read Less</string>
+    <string name="retry">Retry</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="share">Share</string>
+    <string name="blog_url">https://adityakumary.wixsite.com/website</string>
+    <string name="affiliate_url">https://amazon-sachin-tendulkar.blogspot.com/2020/04/sachin-tendulkar-merchandises.html</string>
+    <string name="century_api">https://serene-taiga-20685.herokuapp.com/api/</string>
+</resources>
